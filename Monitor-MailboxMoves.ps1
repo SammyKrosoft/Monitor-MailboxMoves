@@ -1,5 +1,3 @@
-
-
 #The below launches the Move Mailbox monitoring:
 While ($true) {
     $Date=Get-Date
